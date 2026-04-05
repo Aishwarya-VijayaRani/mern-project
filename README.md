@@ -170,13 +170,13 @@ mern-mysql-auth-crud/
 ## Screenshots
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login](./screenshots/Login.png)
 
 ### Forgot Password Page
-![Forgot Password](./screenshots/forgot-password.png)
+![Forgot Password](./screenshots/ForgotPassword.png)
 
-### Reset Password Page
-![Reset Password](./screenshots/reset-password.png)
+### Register Page
+![Register](./screenshots/Register.png)
 
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
